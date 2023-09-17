@@ -1,0 +1,23 @@
+@font-face {
+    font-family: bootstrap-icons;
+    src: url(/assets/icons/fonts/bootstrap-icons.woff);
+}
+
+.table {
+    --bs-table-bg: ;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+    position: absolute;
+    height: 90%;
+    z-index: 0;
+}
+
+#offcanvas-menu {
+    position: absolute;
+    top: .5rem;
+    left: .5rem;
+    z-index: 1;
+}
